@@ -1,2 +1,1 @@
-# Fashion-forecasting
-CDSAML project
+#Influence
